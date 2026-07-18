@@ -1,8 +1,24 @@
 # Hi 👋, I'm Ishani Mitra
 
 ### Building software. Studying systems. Growing into security.
-# 💫 About Me:
- I'm currently working on<br>Engineering reliable backend systems<br>• Exploring how modern software works under the hood<br>• Applying security principles to real-world projects<br>Web Application Security<br>• Building LAKSHYNiTi <br> I'm currently learning<br> Backend Engineering<br>- Computer Networks & Internet Fundamentals<br>- Operating Systems<br>- System Design<br>- Application Security<br>
+<h2>🔭 Currently Working On</h2>
+
+• Engineering reliable and scalable backend systems<br>
+• Understanding how modern software works under the hood<br>
+• Applying security principles to real-world applications<br>
+• Building secure web applications<br>
+• Building <b>LakshyaNiti (VES)</b> — an AI-powered Virtual Execution Space for collaborative project execution
+
+<br>
+
+<h2>🌱 Currently Learning</h2>
+
+• Backend Engineering<br>
+• Computer Networks & Internet Fundamentals<br>
+• Operating Systems<br>
+• System Design<br>
+• Application Security
+
 
 
 ## 🌐 Socials:
