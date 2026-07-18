@@ -1,4 +1,4 @@
-# Hi 👋, I'm IshaniMitra
+# Hi 👋, I'm Ishani Mitra
 
 ### Building software. Studying systems. Growing into security.
 
