@@ -7,7 +7,7 @@
 • Understanding how modern software works under the hood<br>
 • Applying security principles to real-world applications<br>
 • Building secure web applications<br>
-• Building <b>LakshyaNiti (VES)</b> — an AI-powered Virtual Execution Space for collaborative project execution
+• Building <b>LakshyaNiti </b> 
 
 <br>
 
